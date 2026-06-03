@@ -1,10 +1,40 @@
-- 👋 Hi, I’m @piyushpc
-- 👀 I’m interested in in web development, web scraping, and DevOps.
-- 🌱 I’m currently learning advanced data extraction techniques and cloud computing with AWS.
-- 💞️ I’m looking to collaborate on  innovative web applications and automation projects.
-- 📫 How to reach me: chaudharypiyush955@gmail.com or connect with me on LinkedIn.
+# Hi, I'm Piyush Chaudhari 👋
 
-<!---
-piyushpc/piyushpc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+DevOps Engineer with hands-on experience in:
+
+☁️ AWS Cloud
+🚀 CI/CD Automation
+🐳 Docker
+📊 Prometheus & Grafana
+🔒 AWS Security & Monitoring
+⚙️ Infrastructure Automation
+
+## Key Projects
+
+### AWS Cost Optimization
+- Reduced AWS monthly cost by ₹1.5 Lakhs
+- Implemented Lambda-based Instance Scheduler
+
+### CI/CD Pipelines
+- Built Jenkins pipelines for multiple production applications
+- Automated build, test and deployment workflows
+
+### Monitoring Platform
+- Implemented Prometheus + Grafana monitoring
+- Centralized alerting system
+
+### Log Analytics
+- CloudWatch → S3 → Athena architecture
+- Reduced monitoring costs significantly
+
+### Security Compliance Automation
+- Automated AWS security checks
+- SNS email alerting system
+
+## Tech Stack
+
+AWS | Jenkins | Docker | Linux | Git | Prometheus | Grafana | CloudWatch | Athena | Lambda | WAF | Nginx
+
+📫 Reach me:
+LinkedIn: <your-linkedin>
+Email: <your-email>
